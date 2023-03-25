@@ -1,4 +1,5 @@
 # Mini-Projeto de Computção Móvel
+Enunciado: [Mini_Projeto_2022_23.docx.pdf](https://github.com/Joao-Eleuterio/CalendarioAvalicaoEscolar/files/11069444/Mini_Projeto_2022_23.docx.pdf)
 
 Realizado por: João Eleutério a22007237
 
